@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="logo">Application Logo</string>
+    <string name="welcome">Welcome!</string>
+    <string name="your_name">Whats\'s your name?</string>
+    <string name="next">Next</string>
+    <string name="hi" translatable="false">Hi !</string>
+    <string name="calculate" translatable="false">Calculate</string>
+    <string name="female" translatable="false">Female</string>
+    <string name="male" translatable="false">Male</string>
+    <string name="age" translatable="false">Age</string>
+    <string name="weight" translatable="false">Weight</string>
+    <string name="height" translatable="false">Height</string>
+    <string name="calculatee" translatable="false">Calculate</string>
+
+</resources>
